@@ -1,0 +1,12 @@
+[submodule "autojump"]
+	path = autojump
+    url = https://github.com/wting/autojump
+[submodule ".config/kicad/github/kicad-footprints"]
+	path = .config/kicad/github/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule ".config/kicad/github/kicad-symbols"]
+	path = .config/kicad/github/kicad-symbols
+    url = https://github.com/KiCad/kicad-symbols.git
+[submodule ".config/kicad/github/kicad-templates"]
+	path = .config/kicad/github/kicad-templates
+	url = https://github.com/KiCad/kicad-templates.git
